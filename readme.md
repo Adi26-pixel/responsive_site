@@ -9,3 +9,5 @@ This project focuses on the concepts of
 - Mobile-first design
 - Responsive site nav
 - flex-wrap, flex, gap
+
+from the Scrimba frontend development course 
